@@ -5,3 +5,6 @@ export function getFolderDetailList () {
 }
 
 console.log(123)
+export function getFolderDetailList () {
+    console.log(222)
+}
