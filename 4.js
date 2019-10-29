@@ -1,3 +1,5 @@
 // this is 4.js
 
-console.log(456)
+export function getFolderDetailList () {
+    console.log(111)
+}
